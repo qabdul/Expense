@@ -11,7 +11,11 @@ const Header = () => {
           <i class="fi-rr-credit-card" />.
         </div>
         <div className="header-button">
-          <a href="#" target="_blank" rel="noreferrer">
+          <a
+            href="https://github.com/qabdul/Expense"
+            target="_blank"
+            rel="noreferrer"
+          >
             <i class="devicon-github-original colored" />
             Star
           </a>
